@@ -1,4 +1,7 @@
 // Reverse_llist_IterativeMethod
+// "prvs" at first points to NULL
+// "current" points to the node whose link we reverse
+// "fwd" points to the node that is next to "current"
 
 #include<iostream>
 using namespace std;
