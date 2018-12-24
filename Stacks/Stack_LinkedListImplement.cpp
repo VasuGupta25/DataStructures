@@ -1,5 +1,6 @@
 // #Lect 16
 // Implementing Stck using Linked List
+// push(),pop(),display()
 
 
 #include <iostream>
